@@ -1,8 +1,6 @@
-# Algoritmos_ML
-Ensaio em algoritmos de Machine Learning de Regressão, Classificação e Clusterização
-# Ensaio De Machine Learning
+# Ensaio em algoritmos de Machine Learning de Regressão, Classificação e Clusterização
 
-![Image1](/notebooks/Regressao/images/performance.jpg)
+![Image1](/fundamento_machine_learning/img/kmeans.png)
 
 ## Problema de Negócio
 
@@ -50,13 +48,13 @@ métricas, para 3 conjuntos de dados diferentes: Treinamento, validação e test
 
 **O Algortimo KMeans apresentou melhor Silhouette Score com 3 clusters**
 
-![Image2](/notebooks/Clusterizacao/images/kmeans.png)
+![Image2](/fundamento_machine_learning/img/ensaios.jpg)
 
 #### Affinity Propagation
 
 **Com Affinity Propagation o melhor Silhouette Score encontrado foi com o parâmetro preference = -50, onde foram encontrados 7 clusters**
 
-![Image3](/notebooks/Clusterizacao/images/affinity.png)
+![Image3](/fundamento_machine_learning/img/affinity.png)
 
 ### Classificação
 
@@ -64,13 +62,13 @@ Dentre todas as métricas de Classificação o Algoritmo **KNN** foi o único qu
 
 Os demais algoritmos mantiveram um equilíbrio de performance, mostrando um **poder maior de generalização** 
 
-![Image4](/notebooks/Classificacao/images/comparacao_classifier2.png)
+![Image4](/fundamento_machine_learning/img/classificacao.png)
 
 ### Regressão
 
 Dentre os Algoritmos de Regressão, o que teve melhor performance em todas as métricas foi a **Random Forest Regressor**
 
-![Image5](/notebooks/Regressao/images/comparacao_regression3.png)
+![Image5](/fundamento_machine_learning/img/regression.png)
 
 
 
