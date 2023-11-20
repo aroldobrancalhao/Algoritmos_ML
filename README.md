@@ -1,6 +1,6 @@
 # Ensaio em algoritmos de Machine Learning de Regressão, Classificação e Clusterização
 
-![Image1](/fundamento_machine_learning/img/kmeans.png)
+![Image1](/fundamento_machine_learning/img/ensaios.jpg)
 
 ## Problema de Negócio
 
@@ -48,7 +48,7 @@ métricas, para 3 conjuntos de dados diferentes: Treinamento, validação e test
 
 **O Algortimo KMeans apresentou melhor Silhouette Score com 3 clusters**
 
-![Image2](/fundamento_machine_learning/img/ensaios.jpg)
+![Image2](/fundamento_machine_learning/img/kmeans.png)
 
 #### Affinity Propagation
 
