@@ -37,12 +37,12 @@ métricas, para 3 conjuntos de dados diferentes: Treinamento, validação e test
 
 #### Clusterização
 
+**Algoritmos**: K-Means e Affinity Propagation
+**Métricas de performance**: Silhouette Score
+
 ## Resultados Obtidos
 
 ### Clusterização
-
-**Algoritmos**: K-Means e Affinity Propagation
-**Métricas de performance**: Silhouette Score
 
 <p>Foram avaliados 2 algoritmos de Clusterização: KMEANS e Affinity Propagation</p>
 
